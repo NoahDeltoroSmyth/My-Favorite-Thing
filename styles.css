@@ -1,0 +1,16 @@
+* {
+    box-sizing: border-box;
+}
+
+body{
+    background-color: darkgoldenrod;
+    font-family: fantasy;
+    color:darkmagenta ;
+    }
+
+img{
+    width: 75%;
+    max-width: 400px;
+}
+h1, h2{
+}
