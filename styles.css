@@ -4,13 +4,29 @@
 
 body{
     background-color: darkgoldenrod;
-    font-family: fantasy;
-    color:darkmagenta ;
+    font-family:monospace;
+    color:darkmagenta ;    
     }
 
 img{
     width: 75%;
     max-width: 400px;
+    margin-left: 30px;
+    border: 8px solid purple;
+    border-radius: 8px;
+    flex-wrap: wrap;
+    flex-direction: row;
 }
-h1, h2{
+h1 {
+    color: darkgreen;
+    margin-left: 10px;
+
+}
+
+h2 {
+    margin-left: 100px;
+}
+
+p {
+    max-width: 600px;;
 }
